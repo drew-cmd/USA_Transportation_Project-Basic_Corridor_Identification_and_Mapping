@@ -73,7 +73,7 @@ Git LFS (for handling large files tracked in this repo)
 
 ---
 
-###How to Run
+### How to Run
 
 Run the main script:
 
