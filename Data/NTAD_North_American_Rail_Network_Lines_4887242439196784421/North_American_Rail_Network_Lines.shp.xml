@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20250719</CreaDate>
+		<CreaTime>01242100</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<SyncOnce>FALSE</SyncOnce>
+		<DataProperties>
+			<itemProps>
+				<itemName Sync="TRUE">RailLines</itemName>
+				<nativeExtBox>
+					<westBL Sync="TRUE">-156.689757</westBL>
+					<eastBL Sync="TRUE">-59.927234</eastBL>
+					<southBL Sync="TRUE">14.672256</southBL>
+					<northBL Sync="TRUE">64.926143</northBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</nativeExtBox>
+			</itemProps>
+			<coordRef>
+				<type Sync="TRUE">Geographic</type>
+				<geogcsn Sync="TRUE">GCS_NAD_1983_2011</geogcsn>
+				<csUnits Sync="TRUE">Angular Unit: Degree (0.017453)</csUnits>
+				<peXml Sync="TRUE">&lt;GeographicCoordinateSystem xsi:type='typens:GeographicCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.2.0'&gt;&lt;WKT&gt;GEOGCS[&amp;quot;GCS_NAD_1983_2011&amp;quot;,DATUM[&amp;quot;D_NAD_1983_2011&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433],AUTHORITY[&amp;quot;EPSG&amp;quot;,6318]]&lt;/WKT&gt;&lt;XOrigin&gt;-400&lt;/XOrigin&gt;&lt;YOrigin&gt;-400&lt;/YOrigin&gt;&lt;XYScale&gt;999999999.99999988&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;8.9831528411952133e-09&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;LeftLongitude&gt;-180&lt;/LeftLongitude&gt;&lt;WKID&gt;104145&lt;/WKID&gt;&lt;LatestWKID&gt;6318&lt;/LatestWKID&gt;&lt;/GeographicCoordinateSystem&gt;</peXml>
+			</coordRef>
+		</DataProperties>
+		<SyncDate>20240801</SyncDate>
+		<SyncTime>16390400</SyncTime>
+		<ModDate>20240801</ModDate>
+		<ModTime>16390400</ModTime>
+	</Esri>
+	<mdChar>
+		<CharSetCd value="004">
+		</CharSetCd>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd value="005">
+		</ScopeCd>
+	</mdHrLv>
+	<mdContact>
+		<rpIndName>Federal Railroad Administration (FRA) GIS Office</rpIndName>
+		<rpOrgName>Federal Railroad Administration (FRA)</rpOrgName>
+		<rpPosName>GIS Program Manager</rpPosName>
+		<rpCntInfo>
+			<cntAddress addressType="both">
+				<delPoint>1200 New Jersey Ave. SE</delPoint>
+				<city>Washington</city>
+				<adminArea>DC</adminArea>
+				<postCode>20590</postCode>
+				<country>United States</country>
+				<eMailAdd>FRAGIS@dot.gov</eMailAdd>
+			</cntAddress>
+		</rpCntInfo>
+		<role>
+			<RoleCd value="007">
+			</RoleCd>
+		</role>
+	</mdContact>
+	<mdDateSt>2025-07-18</mdDateSt>
+	<distInfo>
+		<distributor>
+			<distorCont>
+				<rpOrgName>Bureau of Transportation Statistics</rpOrgName>
+				<rpPosName>NTAD Program Manager</rpPosName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>none</voiceNum>
+					</cntPhone>
+					<cntAddress addressType="both">
+						<delPoint>1200 New Jersey Ave. SE</delPoint>
+						<city>Washington</city>
+						<adminArea>DC</adminArea>
+						<postCode>20590</postCode>
+						<country>US</country>
+						<eMailAdd>ntad@dot.gov</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="005">
+					</RoleCd>
+				</role>
+			</distorCont>
+			<distorOrdPrc>
+				<resFees>None. No fees are applicable for obtaining the dataset.</resFees>
+			</distorOrdPrc>
+			<distorFormat>
+				<formatName>Open Data Catalog</formatName>
+				<formatVer>1.0</formatVer>
+				<formatSpec>Hosted Downloads</formatSpec>
+				<formatInfo>An ESRI Geodatabase, ESRI shapefile, or spreadsheet.</formatInfo>
+				<fileDecmTech>ZIP</fileDecmTech>
+			</distorFormat>
+			<distorTran>
+				<onLineSrc>
+					<linkage>https://doi.org/10.21949/1519415 </linkage>
+				</onLineSrc>
+			</distorTran>
+		</distributor>
+		<distributor>
+			<distorCont>
+				<rpOrgName>Bureau of Transportation Statistics</rpOrgName>
+				<rpPosName>NTAD Program Manager</rpPosName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>none</voiceNum>
+					</cntPhone>
+					<cntAddress addressType="both">
+						<delPoint>1200 New Jersey Ave. SE</delPoint>
+						<city>Washington</city>
+						<adminArea>DC</adminArea>
+						<postCode>20590</postCode>
+						<country>US</country>
+						<eMailAdd>ntad@dot.gov</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="005">
+					</RoleCd>
+				</role>
+			</distorCont>
+			<distorOrdPrc>
+				<resFees>None. No fees are applicable for obtaining the dataset.</resFees>
+			</distorOrdPrc>
+			<distorFormat>
+				<formatName>ArcGIS REST Services Directory Feature Server (WFS)</formatName>
+				<formatVer>11.5</formatVer>
+				<formatSpec>https://ienccloud.us/arcgis/sdk/rest/index.html#/Feature_Service/02ss0000007v000000/</formatSpec>
+				<formatInfo>complies with OGC WFS Map Service for visualizing geospatial information</formatInfo>
+			</distorFormat>
+			<distorTran>
+				<onLineSrc>
+					<linkage>https://doi.org/10.21949/1519417 </linkage>
+				</onLineSrc>
+			</distorTran>
+		</distributor>
+		<distributor>
+			<distorCont>
+				<rpOrgName>Bureau of Transportation Statistics</rpOrgName>
+				<rpPosName>NTAD Program Manager</rpPosName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>none</voiceNum>
+					</cntPhone>
+					<cntAddress addressType="both">
+						<delPoint>1200 New Jersey Ave. SE</delPoint>
+						<city>Washington</city>
+						<adminArea>DC</adminArea>
+						<postCode>20590</postCode>
+						<country>US</country>
+						<eMailAdd>ntad@dot.gov</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="005">
+					</RoleCd>
+				</role>
+			</distorCont>
+			<distorOrdPrc>
+				<resFees>None. No fees are applicable for obtaining the dataset.</resFees>
+			</distorOrdPrc>
+			<distorFormat>
+				<formatName>ArcGIS Online Hosted Vector Tile Service</formatName>
+				<formatVer>June 2025</formatVer>
+				<formatSpec>https://developers.arcgis.com/documentation/portal-and-data-services/data-services/vector-tile-services/introduction/</formatSpec>
+				<formatInfo>ArcGIS Online Hosted Esri ArcGIS Vector Tile Service for visualizing geospatial information</formatInfo>
+			</distorFormat>
+			<distorTran>
+				<onLineSrc>
+					<linkage>https://doi.org/10.21949/1522251</linkage>
+				</onLineSrc>
+			</distorTran>
+		</distributor>
+	</distInfo>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>North American Rail Network Lines</resTitle>
+			<date>
+				<createDate>1995-07-01</createDate>
+				<lastUpdateDate>2025-07-18</lastUpdateDate>
+			</date>
+			<citRespParty>
+				<rpOrgName>Federal Railroad Administration (FRA)</rpOrgName>
+				<role>
+					<RoleCd value="006">
+					</RoleCd>
+				</role>
+			</citRespParty>
+			<presForm>
+				<PresFormCd value="">
+				</PresFormCd>
+			</presForm>
+			<presForm>
+				<fgdcGeoform>vector digital data</fgdcGeoform>
+			</presForm>
+			<collTitle>National Transportation Atlas Database</collTitle>
+		</idCitation>
+		<idAbs>The North American Rail Network (NARN) Rail Lines dataset was created in 2016 and was updated on July 18, 2025 from the Federal Railroad Administration (FRA) and is part of the U.S. Department of Transportation (USDOT)/Bureau of Transportation Statistics (BTS) National Transportation Atlas Database (NTAD). The NARN Rail Lines dataset is a database that provides ownership, trackage rights, type, passenger, STRACNET, and  geographic reference for North America's railway system at 1:24,000 or better within the United States. The data set covers all 50 States, the District of Columbia, Mexico, and Canada. A data dictionary, or other source of attribute information, is accessible at https://doi.org/10.21949/1528950</idAbs>
+		<idPurp>North American Rail Network (NARN) can be used within the public, the federal government, rail industry, state DOTs, and academia for routing, mapping and analysis.</idPurp>
+		<idCredit>Acknowledgment of the Federal Railroad Administration (FRA) and the Bureau of Transportation Statistics (BTS) [distributor].</idCredit>
+		<idStatus>
+			<ProgCd value="004">
+			</ProgCd>
+		</idStatus>
+		<idPoC>
+			<rpIndName>Federal Railroad Administration (FRA) GIS Office</rpIndName>
+			<rpOrgName>Federal Railroad Administration (FRA)</rpOrgName>
+			<rpPosName>GIS Program Manager</rpPosName>
+			<rpCntInfo>
+				<cntAddress addressType="both">
+					<delPoint>1200 New Jersey Ave. SE</delPoint>
+					<city>Washington</city>
+					<adminArea>DC</adminArea>
+					<postCode>20590</postCode>
+					<country>United States</country>
+					<eMailAdd>FRAGIS@dot.gov</eMailAdd>
+				</cntAddress>
+			</rpCntInfo>
+			<role>
+				<RoleCd value="007">
+				</RoleCd>
+			</role>
+		</idPoC>
+		<resMaint>
+			<maintFreq>
+				<MaintFreqCd value="006">
+				</MaintFreqCd>
+			</maintFreq>
+		</resMaint>
+		<placeKeys>
+			<keyword>USA</keyword>
+			<keyword>National</keyword>
+			<keyword>North America</keyword>
+		</placeKeys>
+		<themeKeys>
+			<keyword>transportation</keyword>
+			<thesaName>
+				<resTitle>ISO 19115 Topic Category</resTitle>
+			</thesaName>
+		</themeKeys>
+		<themeKeys>
+			<keyword>NGDA</keyword>
+			<keyword>National Geospatial Data Asset</keyword>
+			<keyword>Transportation Theme</keyword>
+			<keyword>NGDAID145</keyword>
+			<thesaName>
+				<resTitle>NGDA Portfolio Themes</resTitle>
+			</thesaName>
+		</themeKeys>
+		<themeKeys>
+			<keyword>NTAD</keyword>
+			<keyword>National Transportation Atlas Database</keyword>
+			<keyword>Transportation</keyword>
+			<keyword>Atlas</keyword>
+			<keyword>Database</keyword>
+			<keyword>vector</keyword>
+			<keyword>line</keyword>
+			<keyword>linear Rail</keyword>
+			<keyword>NARN</keyword>
+			<keyword>Network</keyword>
+			<keyword>Lines</keyword>
+		</themeKeys>
+		<searchKeys>
+			<keyword>transportation</keyword>
+			<keyword>USA</keyword>
+			<keyword>National</keyword>
+			<keyword>North America</keyword>
+			<keyword>NTAD</keyword>
+			<keyword>National Transportation Atlas Database</keyword>
+			<keyword>Transportation</keyword>
+			<keyword>Atlas</keyword>
+			<keyword>Database</keyword>
+			<keyword>vector</keyword>
+			<keyword>line</keyword>
+			<keyword>linear Rail</keyword>
+			<keyword>NARN</keyword>
+			<keyword>Network</keyword>
+			<keyword>Lines</keyword>
+		</searchKeys>
+		<resConst>
+			<Consts>
+				<useLimit>This NTAD dataset is a work of the United States government as defined in 17 U.S.C. § 101 and as such are not protected by any U.S. copyrights. This work is available for unrestricted public use.</useLimit>
+			</Consts>
+		</resConst>
+		<resConst>
+			<Consts>
+				<useLimit>This NTAD dataset is a work of the United States government as defined in 17 U.S.C. § 101 and as such are not protected by any U.S. copyrights. This work is available for unrestricted public use.</useLimit>
+			</Consts>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="">
+					</RestrictCd>
+				</accessConsts>
+			</LegConsts>
+		</resConst>
+		<aggrInfo>
+			<aggrDSName>
+				<resTitle>National Transportation Atlas Database</resTitle>
+				<date>
+					<pubDate>2025-07-18</pubDate>
+				</date>
+				<citRespParty>
+					<rpOrgName>Bureau of Transportation Statistics</rpOrgName>
+					<role>
+						<RoleCd value="006">
+						</RoleCd>
+					</role>
+				</citRespParty>
+			</aggrDSName>
+			<assocType>
+				<AscTypeCd value="002">
+				</AscTypeCd>
+			</assocType>
+		</aggrInfo>
+		<tpCat>
+			<TopicCatCd value="018">
+			</TopicCatCd>
+		</tpCat>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox>
+					<exTypeCode>true</exTypeCode>
+					<westBL>-156.689757</westBL>
+					<eastBL>-59.927234</eastBL>
+					<northBL>64.926143</northBL>
+					<southBL>14.672256</southBL>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+		<envirDesc>Version 6.2 (Build 9200) ; Esri ArcGIS 10.8.1.14362</envirDesc>
+	</dataIdInfo>
+	<mdMaint>
+		<resMaint>
+			<maintFreq>
+				<MaintFreqCd value="006">
+				</MaintFreqCd>
+			</maintFreq>
+		</resMaint>
+	</mdMaint>
+	<dqInfo>
+		<dqScope>
+			<scpLvl>
+				<ScopeCd value="005">
+				</ScopeCd>
+			</scpLvl>
+		</dqScope>
+		<report type="DQCompOm">
+			<measDesc>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</measDesc>
+		</report>
+		<dataLineage>
+			<prcStep>
+				<stepDesc>The North American Rail Network was created using the preexisting FRA network 1:100k, the FRA Automated Track Inspection Program (ATIP) data, and the data provided to NGA by ORNL.  The source data of the spatial features was based on FRA’s ATIP foot by foot coordinates, where it existed, and the NGA/ORNL spatial content.</stepDesc>
+			</prcStep>
+		</dataLineage>
+	</dqInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<geometObjs>
+				<geoObjTyp>
+					<GeoObjTypCd value="003">
+					</GeoObjTypCd>
+				</geoObjTyp>
+				<geoObjCnt>302638</geoObjCnt>
+			</geometObjs>
+		</VectSpatRep>
+	</spatRepInfo>
+	<eainfo>
+		<overview>
+			<eaover>The NARN Rail Lines dataset is a database that provides ownership, trackage rights, type, passenger, STRACNET, and  geographic reference for North America's railway system at 1:24,000 or better within the United States. The data set covers all 50 States, the District of Columbia, Mexico, and Canada.</eaover>
+			<eadetcit>https://doi.org/10.21949/1528950</eadetcit>
+		</overview>
+	</eainfo>
+</metadata>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20250131</CreaDate>
+		<CreaTime>18384800</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<SyncOnce>TRUE</SyncOnce>
+		<DataProperties>
+			<itemProps/></DataProperties>
+	</Esri>
+	<mdChar>
+		<CharSetCd value="004">
+		</CharSetCd>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd value="005">
+		</ScopeCd>
+	</mdHrLv>
+	<mdContact>
+		<rpIndName>Amtrak GTFS Support Distribution List</rpIndName>
+		<rpOrgName>Amtrak</rpOrgName>
+		<rpCntInfo>
+			<cntAddress addressType="both">
+				<delPoint>1 Massachusetts Ave</delPoint>
+				<city>Washington</city>
+				<adminArea>DC</adminArea>
+				<postCode>20001</postCode>
+				<country>United States</country>
+				<eMailAdd>DL_DTGTFSsupport@Amtrak.com</eMailAdd>
+			</cntAddress>
+		</rpCntInfo>
+		<role>
+			<RoleCd value="007">
+			</RoleCd>
+		</role>
+	</mdContact>
+	<mdDateSt>2025-01-30</mdDateSt>
+	<distInfo>
+		<distributor>
+			<distorCont>
+				<rpOrgName>Bureau of Transportation Statistics</rpOrgName>
+				<rpPosName>NTAD Program Manager</rpPosName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>none</voiceNum>
+					</cntPhone>
+					<cntAddress addressType="both">
+						<delPoint>1200 New Jersey Ave. SE</delPoint>
+						<city>Washington</city>
+						<adminArea>DC</adminArea>
+						<postCode>20590</postCode>
+						<country>US</country>
+						<eMailAdd>ntad@dot.gov</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="005">
+					</RoleCd>
+				</role>
+			</distorCont>
+			<distorOrdPrc>
+				<resFees>None. No fees are applicable for obtaining the dataset.</resFees>
+			</distorOrdPrc>
+			<distorFormat>
+				<formatName>Open Data Catalog</formatName>
+				<formatVer>1.0</formatVer>
+				<formatSpec>download</formatSpec>
+				<formatInfo>An ESRI Geodatabase, ESRI shapefile, or spreadsheet.</formatInfo>
+				<fileDecmTech>ZIP</fileDecmTech>
+			</distorFormat>
+			<distorTran>
+				<onLineSrc>
+					<linkage>https://doi.org/10.21949/1522017</linkage>
+				</onLineSrc>
+			</distorTran>
+		</distributor>
+		<distributor>
+			<distorCont>
+				<rpOrgName>Bureau of Transportation Statistics</rpOrgName>
+				<rpPosName>NTAD Program Manager</rpPosName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>none</voiceNum>
+					</cntPhone>
+					<cntAddress addressType="both">
+						<delPoint>1200 New Jersey Ave. SE</delPoint>
+						<city>Washington</city>
+						<adminArea>DC</adminArea>
+						<postCode>20590</postCode>
+						<country>US</country>
+						<eMailAdd>ntad@dot.gov</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="005">
+					</RoleCd>
+				</role>
+			</distorCont>
+			<distorOrdPrc>
+				<resFees>None. No fees are applicable for obtaining the dataset.</resFees>
+			</distorOrdPrc>
+			<distorFormat>
+				<formatName>Esri Feature Service</formatName>
+				<formatVer>11.1</formatVer>
+				<formatSpec>https://developers.arcgis.com/rest/services-reference/online/hosted-feature-service.htm</formatSpec>
+				<formatInfo>ArcGIS Online Hosted Esri Feature Service for visualizing geospatial information</formatInfo>
+			</distorFormat>
+			<distorTran>
+				<onLineSrc>
+					<linkage>https://doi.org/10.21949/1522019</linkage>
+				</onLineSrc>
+			</distorTran>
+		</distributor>
+	</distInfo>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>Amtrak Stations</resTitle>
+			<date>
+				<createDate>1995-07-01</createDate>
+				<lastUpdateDate>2025-01-29</lastUpdateDate>
+			</date>
+			<citRespParty>
+				<rpOrgName>Amtrak</rpOrgName>
+				<role>
+					<RoleCd value="006">
+					</RoleCd>
+				</role>
+			</citRespParty>
+			<presForm>
+				<PresFormCd value="">
+				</PresFormCd>
+			</presForm>
+			<presForm>
+				<fgdcGeoform>vector digital data</fgdcGeoform>
+			</presForm>
+			<collTitle>National Transportation Atlas Database</collTitle>
+		</idCitation>
+		<idAbs>The Amtrak Stations dataset is as of January 29, 2025 from Amtrak and is part of the U.S. Department of Transportation (USDOT)/Bureau of Transportation Statistics (BTS) National Transportation Atlas Database (NTAD). This dataset contains Amtrak intercity railroad passenger terminals in the United States. A data dictionary, or other source of attribute information, is accessible at https://doi.org/10.21949/1529010</idAbs>
+		<idPurp>The Amtrak stations layer can be used within the public, the Federal Government, rail industry, state DOTs, and academia for mapping and analysis.</idPurp>
+		<idCredit>Acknowledgment of the National Railroad Passenger Corporation (Amtrak), and the Bureau of Transportation Statistics (BTS) [distributor].</idCredit>
+		<idStatus>
+			<ProgCd value="004">
+			</ProgCd>
+		</idStatus>
+		<idPoC>
+			<rpIndName>Amtrak GTFS Support Distribution List</rpIndName>
+			<rpOrgName>Amtrak</rpOrgName>
+			<rpCntInfo>
+				<cntAddress addressType="both">
+					<delPoint>1 Massachusetts Ave</delPoint>
+					<city>Washington</city>
+					<adminArea>DC</adminArea>
+					<postCode>20001</postCode>
+					<country>United States</country>
+					<eMailAdd>DL_DTGTFSsupport@Amtrak.com</eMailAdd>
+				</cntAddress>
+			</rpCntInfo>
+			<role>
+				<RoleCd value="007">
+				</RoleCd>
+			</role>
+		</idPoC>
+		<resMaint>
+			<maintFreq>
+				<MaintFreqCd value="009">
+				</MaintFreqCd>
+			</maintFreq>
+		</resMaint>
+		<placeKeys>
+			<keyword>USA</keyword>
+			<keyword>National</keyword>
+		</placeKeys>
+		<themeKeys>
+			<keyword>structure</keyword>
+			<thesaName>
+				<resTitle>ISO 19115 Topic Category</resTitle>
+			</thesaName>
+		</themeKeys>
+		<themeKeys>
+			<keyword>NTAD</keyword>
+			<keyword>National Transportation Atlas Database</keyword>
+			<keyword>Transportation</keyword>
+			<keyword>Atlas</keyword>
+			<keyword>Database</keyword>
+			<keyword>vector</keyword>
+			<keyword>point</keyword>
+			<keyword>Rail</keyword>
+			<keyword>Railroad</keyword>
+			<keyword>Amtrak</keyword>
+			<keyword>Station</keyword>
+			<keyword>Structures</keyword>
+		</themeKeys>
+		<searchKeys>
+			<keyword>structure</keyword>
+			<keyword>USA</keyword>
+			<keyword>National</keyword>
+			<keyword>NTAD</keyword>
+			<keyword>National Transportation Atlas Database</keyword>
+			<keyword>Transportation</keyword>
+			<keyword>Atlas</keyword>
+			<keyword>Database</keyword>
+			<keyword>vector</keyword>
+			<keyword>point</keyword>
+			<keyword>Rail</keyword>
+			<keyword>Railroad</keyword>
+			<keyword>Amtrak</keyword>
+			<keyword>Station</keyword>
+			<keyword>Structures</keyword>
+		</searchKeys>
+		<resConst>
+			<Consts>
+				<useLimit>This NTAD dataset is a work of the United States government as defined in 17 U.S.C. § 101 and as such are not protected by any U.S. copyrights. This work is available for unrestricted public use.</useLimit>
+			</Consts>
+		</resConst>
+		<resConst>
+			<Consts>
+				<useLimit>This NTAD dataset is a work of the United States government as defined in 17 U.S.C. § 101 and as such are not protected by any U.S. copyrights. This work is available for unrestricted public use.</useLimit>
+			</Consts>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="">
+					</RestrictCd>
+				</accessConsts>
+			</LegConsts>
+		</resConst>
+		<aggrInfo>
+			<aggrDSName>
+				<resTitle>National Transportation Atlas Database</resTitle>
+				<date>
+					<pubDate>2025-01-29</pubDate>
+				</date>
+				<citRespParty>
+					<rpOrgName>Bureau of Transportation Statistics</rpOrgName>
+					<role>
+						<RoleCd value="006">
+						</RoleCd>
+					</role>
+				</citRespParty>
+			</aggrDSName>
+			<assocType>
+				<AscTypeCd value="002">
+				</AscTypeCd>
+			</assocType>
+		</aggrInfo>
+		<tpCat>
+			<TopicCatCd value="017">
+			</TopicCatCd>
+		</tpCat>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox>
+					<exTypeCode>true</exTypeCode>
+					<westBL>-124.28831099999999</westBL>
+					<eastBL>-68.670015000000006</eastBL>
+					<northBL>49.273757000000003</northBL>
+					<southBL>25.849554000000001</southBL>
+				</GeoBndBox>
+			</geoEle>
+			<tempEle>
+				<TempExtent>
+					<exTemp>
+						<TM_Instant>
+							<tmPosition>2025-01-29</tmPosition>
+						</TM_Instant>
+					</exTemp>
+				</TempExtent>
+			</tempEle>
+		</dataExt>
+		<envirDesc>Version 6.2 (Build 9200) ; Esri ArcGIS 10.8.1.14362</envirDesc>
+	</dataIdInfo>
+	<mdMaint>
+		<resMaint>
+			<maintFreq>
+				<MaintFreqCd value="009">
+				</MaintFreqCd>
+			</maintFreq>
+		</resMaint>
+	</mdMaint>
+	<dqInfo>
+		<dqScope>
+			<scpLvl>
+				<ScopeCd value="005">
+				</ScopeCd>
+			</scpLvl>
+		</dqScope>
+		<report type="DQCompOm">
+			<measDesc>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</measDesc>
+		</report>
+		<dataLineage>
+			<prcStep>
+				<stepDesc>BTS obtained this dataset directly from Amtrak.</stepDesc>
+			</prcStep>
+		</dataLineage>
+	</dqInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<geometObjs>
+				<geoObjTyp>
+					<GeoObjTypCd value="004">
+					</GeoObjTypCd>
+				</geoObjTyp>
+				<geoObjCnt>1020</geoObjCnt>
+			</geometObjs>
+		</VectSpatRep>
+	</spatRepInfo>
+	<eainfo>
+		<overview>
+			<eaover>This dataset contains Amtrak intercity railroad passenger terminals in the United States.</eaover>
+			<eadetcit>https://doi.org/10.21949/1529010</eadetcit>
+		</overview>
+	</eainfo>
+</metadata>

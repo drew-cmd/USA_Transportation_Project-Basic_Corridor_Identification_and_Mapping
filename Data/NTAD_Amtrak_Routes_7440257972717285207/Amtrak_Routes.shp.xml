@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20240626</CreaDate>
+		<CreaTime>19543300</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<SyncOnce>TRUE</SyncOnce>
+		<DataProperties>
+			<itemProps>
+			</itemProps>
+		</DataProperties>
+	</Esri>
+	<mdChar>
+		<CharSetCd value="004">
+		</CharSetCd>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd value="005">
+		</ScopeCd>
+	</mdHrLv>
+	<mdContact>
+		<rpOrgName>Federal Railroad Administration (FRA)</rpOrgName>
+		<rpCntInfo>
+			<cntAddress addressType="both">
+				<delPoint>1200 New Jersey Ave. SE</delPoint>
+				<city>Washington</city>
+				<adminArea>DC</adminArea>
+				<postCode>20590</postCode>
+				<country>United States</country>
+				<eMailAdd>FRAGIS@dot.gov</eMailAdd>
+			</cntAddress>
+		</rpCntInfo>
+		<role>
+			<RoleCd value="007">
+			</RoleCd>
+		</role>
+	</mdContact>
+	<mdDateSt>2024-03-01</mdDateSt>
+	<distInfo>
+		<distributor>
+			<distorCont>
+				<rpOrgName>Bureau of Transportation Statistics</rpOrgName>
+				<rpPosName>NTAD Program Manager</rpPosName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>none</voiceNum>
+					</cntPhone>
+					<cntAddress addressType="both">
+						<delPoint>1200 New Jersey Ave. SE</delPoint>
+						<city>Washington</city>
+						<adminArea>DC</adminArea>
+						<postCode>20590</postCode>
+						<country>US</country>
+						<eMailAdd>ntad@dot.gov</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="005">
+					</RoleCd>
+				</role>
+			</distorCont>
+			<distorOrdPrc>
+				<resFees>None. No fees are applicable for obtaining the dataset.</resFees>
+			</distorOrdPrc>
+			<distorFormat>
+				<formatName>Open Data Catalog</formatName>
+				<formatVer>1.0</formatVer>
+				<formatSpec>download</formatSpec>
+				<formatInfo>An ESRI Geodatabase, ESRI shapefile, or spreadsheet.</formatInfo>
+				<fileDecmTech>ZIP</fileDecmTech>
+			</distorFormat>
+			<distorTran>
+				<onLineSrc>
+					<linkage>https://doi.org/10.21949/1522014</linkage>
+				</onLineSrc>
+			</distorTran>
+		</distributor>
+		<distributor>
+			<distorCont>
+				<rpOrgName>Bureau of Transportation Statistics</rpOrgName>
+				<rpPosName>NTAD Program Manager</rpPosName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>none</voiceNum>
+					</cntPhone>
+					<cntAddress addressType="both">
+						<delPoint>1200 New Jersey Ave. SE</delPoint>
+						<city>Washington</city>
+						<adminArea>DC</adminArea>
+						<postCode>20590</postCode>
+						<country>US</country>
+						<eMailAdd>ntad@dot.gov</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="005">
+					</RoleCd>
+				</role>
+			</distorCont>
+			<distorOrdPrc>
+				<resFees>None. No fees are applicable for obtaining the dataset.</resFees>
+			</distorOrdPrc>
+			<distorFormat>
+				<formatName>AZURE Cloud ArcGIS Server (OGC WMS)</formatName>
+				<formatVer>1.3.0</formatVer>
+				<formatSpec>https://www.ogc.org/standards/wms</formatSpec>
+				<formatInfo>OGC WMS Map Service for visualizing geospatial information</formatInfo>
+			</distorFormat>
+			<distorTran>
+				<onLineSrc>
+					<linkage>https://doi.org/10.21949/1522015</linkage>
+				</onLineSrc>
+			</distorTran>
+		</distributor>
+		<distributor>
+			<distorCont>
+				<rpOrgName>Bureau of Transportation Statistics</rpOrgName>
+				<rpPosName>NTAD Program Manager</rpPosName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>none</voiceNum>
+					</cntPhone>
+					<cntAddress addressType="both">
+						<delPoint>1200 New Jersey Ave. SE</delPoint>
+						<city>Washington</city>
+						<adminArea>DC</adminArea>
+						<postCode>20590</postCode>
+						<country>US</country>
+						<eMailAdd>ntad@dot.gov</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="005">
+					</RoleCd>
+				</role>
+			</distorCont>
+			<distorOrdPrc>
+				<resFees>None. No fees are applicable for obtaining the dataset.</resFees>
+			</distorOrdPrc>
+			<distorFormat>
+				<formatName>AZURE Cloud ArcGIS Server (OGC WFS)</formatName>
+				<formatVer>1.0</formatVer>
+				<formatSpec>https://www.ogc.org/standards/wfs</formatSpec>
+				<formatInfo>OGC WFS Map Service for visualizing geospatial information</formatInfo>
+			</distorFormat>
+			<distorTran>
+				<onLineSrc>
+					<linkage>https://doi.org/10.21949/1522016</linkage>
+				</onLineSrc>
+			</distorTran>
+		</distributor>
+	</distInfo>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>Amtrak Routes</resTitle>
+			<date>
+				<createDate>2009-07-01</createDate>
+				<lastUpdateDate>2024-02-02</lastUpdateDate>
+			</date>
+			<citRespParty>
+				<rpOrgName>Federal Railroad Administration (FRA)</rpOrgName>
+				<role>
+					<RoleCd value="006">
+					</RoleCd>
+				</role>
+			</citRespParty>
+			<presForm>
+				<PresFormCd value="">
+				</PresFormCd>
+			</presForm>
+			<presForm>
+				<fgdcGeoform>vector digital data</fgdcGeoform>
+			</presForm>
+			<collTitle>National Transportation Atlas Database</collTitle>
+		</idCitation>
+		<idAbs>The Amtrak Routes dataset is as of January 05, 2024 from the Federal Railroad Administration (FRA) and is part of the U.S. Department of Transportation (USDOT)/Bureau of Transportation Statistics (BTS) National Transportation Atlas Database (NTAD). This dataset is a single line representation of unique routes that are generated from the North American Railroad Network (Amtrak). It contains information on ownership, trackage rights, type, passenger, STRACNET, and geographic reference of the Amtrak system at 1:24,000 or better and the dataset covers all 50 states and the District of Columbia.</idAbs>
+		<idPurp>Amtrak routes can be used within the public, the Federal Government, rail industry, state DOTs, and academia for mapping and analysis.</idPurp>
+		<idCredit>Acknowledgment of the Federal Railroad Administration (FRA), the National Railroad Passenger Corporation (Amtrak), and the Bureau of Transportation Statistics (BTS) [distributor].</idCredit>
+		<idStatus>
+			<ProgCd value="001">
+			</ProgCd>
+		</idStatus>
+		<idPoC>
+			<rpOrgName>Federal Railroad Administration (FRA)</rpOrgName>
+			<rpCntInfo>
+				<cntAddress addressType="both">
+					<delPoint>1200 New Jersey Ave. SE</delPoint>
+					<city>Washington</city>
+					<adminArea>DC</adminArea>
+					<postCode>20590</postCode>
+					<country>United States</country>
+					<eMailAdd>FRAGIS@dot.gov</eMailAdd>
+				</cntAddress>
+			</rpCntInfo>
+			<role>
+				<RoleCd value="007">
+				</RoleCd>
+			</role>
+		</idPoC>
+		<resMaint>
+			<maintFreq>
+				<MaintFreqCd value="009">
+				</MaintFreqCd>
+			</maintFreq>
+		</resMaint>
+		<placeKeys>
+			<keyword>USA</keyword>
+			<keyword>National</keyword>
+		</placeKeys>
+		<themeKeys>
+			<keyword>transportation</keyword>
+			<thesaName>
+				<resTitle>ISO 19115 Topic Category</resTitle>
+			</thesaName>
+		</themeKeys>
+		<themeKeys>
+			<keyword>NTAD</keyword>
+			<keyword>National Transportation Atlas Database</keyword>
+			<keyword>Transportation</keyword>
+			<keyword>Atlas</keyword>
+			<keyword>Database</keyword>
+			<keyword>Rail</keyword>
+			<keyword>Railroad</keyword>
+			<keyword>Amtrak</keyword>
+			<keyword>Route</keyword>
+			<keyword>Line</keyword>
+			<keyword>Administration</keyword>
+			<keyword>FRA</keyword>
+		</themeKeys>
+		<searchKeys>
+			<keyword>transportation</keyword>
+			<keyword>USA</keyword>
+			<keyword>National</keyword>
+			<keyword>NTAD</keyword>
+			<keyword>National Transportation Atlas Database</keyword>
+			<keyword>Transportation</keyword>
+			<keyword>Atlas</keyword>
+			<keyword>Database</keyword>
+			<keyword>Rail</keyword>
+			<keyword>Railroad</keyword>
+			<keyword>Amtrak</keyword>
+			<keyword>Route</keyword>
+			<keyword>Line</keyword>
+			<keyword>Administration</keyword>
+			<keyword>FRA</keyword>
+		</searchKeys>
+		<resConst>
+			<Consts>
+				<useLimit>This NTAD dataset is a work of the United States government as defined in 17 U.S.C. § 101 and as such are not protected by any U.S. copyrights. This work is available for unrestricted public use.</useLimit>
+			</Consts>
+		</resConst>
+		<resConst>
+			<Consts>
+				<useLimit>This NTAD dataset is a work of the United States government as defined in 17 U.S.C. § 101 and as such are not protected by any U.S. copyrights. This work is available for unrestricted public use.</useLimit>
+			</Consts>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="">
+					</RestrictCd>
+				</accessConsts>
+			</LegConsts>
+		</resConst>
+		<aggrInfo>
+			<aggrDSName>
+				<resTitle>National Transportation Atlas Database</resTitle>
+				<date>
+					<pubDate>2024-02-09</pubDate>
+				</date>
+				<citRespParty>
+					<rpOrgName>Bureau of Transportation Statistics</rpOrgName>
+					<role>
+						<RoleCd value="006">
+						</RoleCd>
+					</role>
+				</citRespParty>
+			</aggrDSName>
+			<assocType>
+				<AscTypeCd value="002">
+				</AscTypeCd>
+			</assocType>
+		</aggrInfo>
+		<tpCat>
+			<TopicCatCd value="018">
+			</TopicCatCd>
+		</tpCat>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox>
+					<exTypeCode>true</exTypeCode>
+					<westBL>-171.5</westBL>
+					<eastBL>-67</eastBL>
+					<northBL>71.5</northBL>
+					<southBL>18.5</southBL>
+				</GeoBndBox>
+			</geoEle>
+			<tempEle>
+				<TempExtent>
+					<exTemp>
+						<TM_Instant>
+							<tmPosition>2024-01-05</tmPosition>
+						</TM_Instant>
+					</exTemp>
+				</TempExtent>
+			</tempEle>
+		</dataExt>
+		<envirDesc>Version 6.2 (Build 9200) ; Esri ArcGIS 10.8.1.14362</envirDesc>
+	</dataIdInfo>
+	<dqInfo>
+		<dqScope>
+			<scpLvl>
+				<ScopeCd value="005">
+				</ScopeCd>
+			</scpLvl>
+		</dqScope>
+		<report type="DQCompOm">
+			<measDesc>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</measDesc>
+		</report>
+		<dataLineage>
+			<prcStep>
+				<stepDesc>The dataset was created by coding onto the FRA network then dissolving line attributes by name to create one line per attribute not broken into segments. </stepDesc>
+			</prcStep>
+		</dataLineage>
+	</dqInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<geometObjs>
+				<geoObjTyp>
+					<GeoObjTypCd value="003">
+					</GeoObjTypCd>
+				</geoObjTyp>
+				<geoObjCnt>47</geoObjCnt>
+			</geometObjs>
+		</VectSpatRep>
+	</spatRepInfo>
+	<eainfo>
+		<overview>
+			<eaover>This dataset is a single line representation of unique routes that are generated from the North American Railroad Network (Amtrak). It contains information on ownership, trackage rights, type, passenger, STRACNET, and geographic reference of the Amtrak system at 1:24,000 or better and the dataset covers all 50 states and the District of Columbia.</eaover>
+			<eadetcit>https://doi.org/10.21949/1529009</eadetcit>
+		</overview>
+	</eainfo>
+</metadata>

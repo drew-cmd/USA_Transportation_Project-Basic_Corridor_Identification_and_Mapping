@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20250714</CreaDate>
+		<CreaTime>21565900</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<SyncOnce>TRUE</SyncOnce>
+		<DataProperties>
+			<itemProps/></DataProperties>
+	</Esri>
+	<mdChar>
+		<CharSetCd value="004">
+		</CharSetCd>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd value="005">
+		</ScopeCd>
+	</mdHrLv>
+	<mdContact>
+		<rpIndName>Brian Murphy</rpIndName>
+		<rpOrgName>Federal Aviation Administration (FAA)</rpOrgName>
+		<rpPosName>Manager, Data Systems Team</rpPosName>
+		<rpCntInfo>
+			<cntPhone>
+				<voiceNum>202-267-4389</voiceNum>
+			</cntPhone>
+			<cntAddress addressType="both">
+				<delPoint>1305 East-West Highway; SSMC4, Suite 4531</delPoint>
+				<city>Silver Spring</city>
+				<adminArea>MD</adminArea>
+				<postCode>20910</postCode>
+				<country>United States</country>
+				<eMailAdd>Brian.M.Murphy@faa.gov</eMailAdd>
+			</cntAddress>
+		</rpCntInfo>
+		<role>
+			<RoleCd value="007">
+			</RoleCd>
+		</role>
+	</mdContact>
+	<mdDateSt>2025-05-13</mdDateSt>
+	<distInfo>
+		<distributor>
+			<distorCont>
+				<rpOrgName>Bureau of Transportation Statistics</rpOrgName>
+				<rpPosName>NTAD Program Manager</rpPosName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>none</voiceNum>
+					</cntPhone>
+					<cntAddress addressType="both">
+						<delPoint>1200 New Jersey Ave. SE</delPoint>
+						<city>Washington</city>
+						<adminArea>DC</adminArea>
+						<postCode>20590</postCode>
+						<country>US</country>
+						<eMailAdd>ntad@dot.gov</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="005">
+					</RoleCd>
+				</role>
+			</distorCont>
+			<distorOrdPrc>
+				<resFees>None. No fees are applicable for obtaining the dataset.</resFees>
+			</distorOrdPrc>
+			<distorFormat>
+				<formatName>Open Data Catalog</formatName>
+				<formatVer>1.0</formatVer>
+				<formatSpec>download</formatSpec>
+				<formatInfo>An ESRI Geodatabase, ESRI shapefile, or spreadsheet.</formatInfo>
+				<fileDecmTech>ZIP</fileDecmTech>
+			</distorFormat>
+			<distorTran>
+				<onLineSrc>
+					<linkage>https://doi.org/10.21949/1522006</linkage>
+				</onLineSrc>
+			</distorTran>
+		</distributor>
+		<distributor>
+			<distorCont>
+				<rpOrgName>Bureau of Transportation Statistics</rpOrgName>
+				<rpPosName>NTAD Program Manager</rpPosName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>none</voiceNum>
+					</cntPhone>
+					<cntAddress addressType="both">
+						<delPoint>1200 New Jersey Ave. SE</delPoint>
+						<city>Washington</city>
+						<adminArea>DC</adminArea>
+						<postCode>20590</postCode>
+						<country>US</country>
+						<eMailAdd>ntad@dot.gov</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="005">
+					</RoleCd>
+				</role>
+			</distorCont>
+			<distorOrdPrc>
+				<resFees>None. No fees are applicable for obtaining the dataset.</resFees>
+			</distorOrdPrc>
+			<distorFormat>
+				<formatName>Esri Feature Service</formatName>
+				<formatVer>11.1</formatVer>
+				<formatSpec>https://developers.arcgis.com/rest/services-reference/online/hosted-feature-service.htm</formatSpec>
+				<formatInfo>ArcGIS Online Hosted Esri Feature Service for visualizing geospatial information</formatInfo>
+			</distorFormat>
+			<distorTran>
+				<onLineSrc>
+					<linkage>https://doi.org/10.21949/1528037</linkage>
+				</onLineSrc>
+			</distorTran>
+		</distributor>
+	</distInfo>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>Aviation Facilities</resTitle>
+			<date>
+				<createDate>1995-07-01</createDate>
+				<lastUpdateDate>2025-05-15</lastUpdateDate>
+			</date>
+			<citRespParty>
+				<rpOrgName>Federal Aviation Administration (FAA)</rpOrgName>
+				<role>
+					<RoleCd value="006">
+					</RoleCd>
+				</role>
+			</citRespParty>
+			<presForm>
+				<PresFormCd value="">
+				</PresFormCd>
+			</presForm>
+			<presForm>
+				<fgdcGeoform>vector digital data</fgdcGeoform>
+			</presForm>
+			<collTitle>National Transportation Atlas Database</collTitle>
+		</idCitation>
+		<idAbs>The Aviation Facilities dataset is updated every 28 days from the Federal Aviation Administration (FAA) and is part of the U.S. Department of Transportation (USDOT)/Bureau of Transportation Statistics (BTS) National Transportation Atlas Database (NTAD). The Aviation Facilities dataset is a geographic point database of all official and operational aerodromes in the United States and U.S. Territories. Attribute data is provided on the physical and operational characteristics of the aerodrome, current usage including enplanements and aircraft operations, congestion levels and usage categories. This geospatial data is derived from the FAA's National Airspace System Resource Aeronautical Data Product. For more information about these data, please visit: https://www.faa.gov/air_traffic/flight_info/aeronav/Aero_Data/NASR_Subscription. A data dictionary, or other source of attribute information, is accessible at https://doi.org/10.21949/1529011</idAbs>
+		<idPurp>The dataset provides users with information about airport locations and attributes and can be used for national and regional analysis applications.</idPurp>
+		<idCredit>Acknowledgment of the Federal Aviation Administration (FAA), and the Bureau of Transportation Statistics (BTS) [distributor].</idCredit>
+		<idStatus>
+			<ProgCd value="004">
+			</ProgCd>
+		</idStatus>
+		<idPoC>
+			<rpIndName>Brian Murphy</rpIndName>
+			<rpOrgName>Federal Aviation Administration (FAA)</rpOrgName>
+			<rpPosName>Manager, Data Systems Team</rpPosName>
+			<rpCntInfo>
+				<cntPhone>
+					<voiceNum>202-267-4389</voiceNum>
+				</cntPhone>
+				<cntAddress addressType="both">
+					<delPoint>1305 East-West Highway; SSMC4, Suite 4531</delPoint>
+					<city>Silver Spring</city>
+					<adminArea>MD</adminArea>
+					<postCode>20910</postCode>
+					<country>United States</country>
+					<eMailAdd>Brian.M.Murphy@faa.gov</eMailAdd>
+				</cntAddress>
+			</rpCntInfo>
+			<role>
+				<RoleCd value="007">
+				</RoleCd>
+			</role>
+		</idPoC>
+		<resMaint>
+			<maintFreq>
+				<MaintFreqCd value="005">
+				</MaintFreqCd>
+			</maintFreq>
+		</resMaint>
+		<placeKeys>
+			<keyword>USA</keyword>
+			<keyword>National</keyword>
+		</placeKeys>
+		<themeKeys>
+			<keyword>transportation</keyword>
+			<thesaName>
+				<resTitle>ISO 19115 Topic Category</resTitle>
+			</thesaName>
+		</themeKeys>
+		<themeKeys>
+			<keyword>NGDA</keyword>
+			<keyword>National Geospatial Data Asset</keyword>
+			<keyword>Transportation Theme</keyword>
+			<keyword>NGDAID141</keyword>
+			<thesaName>
+				<resTitle>NGDA Portfolio Themes</resTitle>
+			</thesaName>
+		</themeKeys>
+		<themeKeys>
+			<keyword>NTAD</keyword>
+			<keyword>National Transportation Atlas Database</keyword>
+			<keyword>Transportation</keyword>
+			<keyword>Atlas</keyword>
+			<keyword>Database</keyword>
+			<keyword>vector</keyword>
+			<keyword>point</keyword>
+			<keyword>Aviation</keyword>
+			<keyword>Airports</keyword>
+			<keyword>Structures</keyword>
+			<keyword>Airport</keyword>
+			<keyword>Balloonport</keyword>
+			<keyword>Gliderport</keyword>
+			<keyword>Heliport</keyword>
+			<keyword>Seaplane Base</keyword>
+			<keyword>Ultralight</keyword>
+		</themeKeys>
+		<searchKeys>
+			<keyword>transportation</keyword>
+			<keyword>USA</keyword>
+			<keyword>National</keyword>
+			<keyword>NTAD</keyword>
+			<keyword>National Transportation Atlas Database</keyword>
+			<keyword>Transportation</keyword>
+			<keyword>Atlas</keyword>
+			<keyword>Database</keyword>
+			<keyword>vector</keyword>
+			<keyword>point</keyword>
+			<keyword>Aviation</keyword>
+			<keyword>Airports</keyword>
+			<keyword>Structures</keyword>
+			<keyword>Airport</keyword>
+			<keyword>Balloonport</keyword>
+			<keyword>Gliderport</keyword>
+			<keyword>Heliport</keyword>
+			<keyword>Seaplane Base</keyword>
+			<keyword>Ultralight</keyword>
+		</searchKeys>
+		<resConst>
+			<Consts>
+				<useLimit>This NTAD dataset is a work of the United States government as defined in 17 U.S.C. § 101 and as such are not protected by any U.S. copyrights. This work is available for unrestricted public use.</useLimit>
+			</Consts>
+		</resConst>
+		<resConst>
+			<Consts>
+				<useLimit>This NTAD dataset is a work of the United States government as defined in 17 U.S.C. § 101 and as such are not protected by any U.S. copyrights. This work is available for unrestricted public use.</useLimit>
+			</Consts>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="">
+					</RestrictCd>
+				</accessConsts>
+			</LegConsts>
+		</resConst>
+		<aggrInfo>
+			<aggrDSName>
+				<resTitle>National Transportation Atlas Database</resTitle>
+				<date>
+					<pubDate>2025-05-15</pubDate>
+				</date>
+				<citRespParty>
+					<rpOrgName>Bureau of Transportation Statistics</rpOrgName>
+					<role>
+						<RoleCd value="006">
+						</RoleCd>
+					</role>
+				</citRespParty>
+			</aggrDSName>
+			<assocType>
+				<AscTypeCd value="002">
+				</AscTypeCd>
+			</assocType>
+		</aggrInfo>
+		<tpCat>
+			<TopicCatCd value="018">
+			</TopicCatCd>
+		</tpCat>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox>
+					<exTypeCode>true</exTypeCode>
+					<westBL>-177.38130899999999</westBL>
+					<eastBL>174.11358887989999</eastBL>
+					<northBL>76.533332999999999</northBL>
+					<southBL>-14.331662</southBL>
+				</GeoBndBox>
+			</geoEle>
+			<tempEle>
+				<TempExtent>
+					<exTemp>
+						<TM_Instant>
+							<tmPosition>2023-10-06</tmPosition>
+						</TM_Instant>
+					</exTemp>
+				</TempExtent>
+			</tempEle>
+		</dataExt>
+		<envirDesc>Version 6.2 (Build 9200) ; Esri ArcGIS 10.8.1.14362</envirDesc>
+	</dataIdInfo>
+	<mdMaint>
+		<resMaint>
+			<maintFreq>
+				<MaintFreqCd value="005">
+				</MaintFreqCd>
+			</maintFreq>
+		</resMaint>
+	</mdMaint>
+	<dqInfo>
+		<dqScope>
+			<scpLvl>
+				<ScopeCd value="005">
+				</ScopeCd>
+			</scpLvl>
+		</dqScope>
+		<report type="DQCompOm">
+			<measDesc>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</measDesc>
+		</report>
+	</dqInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<geometObjs>
+				<geoObjTyp>
+					<GeoObjTypCd value="004">
+					</GeoObjTypCd>
+				</geoObjTyp>
+				<geoObjCnt>20110</geoObjCnt>
+			</geometObjs>
+		</VectSpatRep>
+	</spatRepInfo>
+	<eainfo>
+		<overview>
+			<eaover>The Aviation Facilities dataset is a geographic point database of all official and operational aerodromes in the United States and U.S. Territories. Attribute data is provided on the physical and operational characteristics of the aerodrome, current usage including enplanements and aircraft operations, congestion levels and usage categories. This geospatial data is derived from the FAA's National Airspace System Resource Aeronautical Data Product. For more information about these data, please visit: https://www.faa.gov/air_traffic/flight_info/aeronav/Aero_Data/NASR_Subscription.</eaover>
+			<eadetcit>https://doi.org/10.21949/1529011</eadetcit>
+		</overview>
+	</eainfo>
+</metadata>
