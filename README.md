@@ -1,6 +1,7 @@
 # USA Transportation Project (Basic Corridor Identification & Mapping)
 
 This project analyzes and visualizes the U.S. passenger and freight rail networks alongside metro areas to identify and rank potential high-speed rail corridors.
+
 It integrates spatial datasets from federal sources, calculates corridor scores based on population interaction and distance, and produces interactive web maps and GeoJSON outputs.
 
 ---
